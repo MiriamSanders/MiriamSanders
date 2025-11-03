@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Miriam Sanders!
 
-🌟 **Software Developer | Recent Graduate | Recipe Enthusiast**
+🌟 **Software Developer | Recent Graduate **
 
 ---
 
